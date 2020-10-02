@@ -1,2 +1,2 @@
-# Snake
+# Snaker
 A snake game
